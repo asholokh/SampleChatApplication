@@ -1,0 +1,62 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Logs
+logs/
+*.log
+*.log.*
+
+# Build Output
+dist/
+build/
+.out/
+.next/
+coverage/
+
+# Dependency directories
+jspm_packages/
+
+# TypeScript
+*.tsbuildinfo
+*.d.ts
+tsconfig.tsbuildinfo
+
+# Editor Directories
+.idea/
+.vscode/
+*.swp
+
+# OS Generated Files
+.DS_Store
+Thumbs.db
+
+# Environment Variables
+.env.*.local
+
+# React Specific
+.eslintcache
+.cache/
+public/*.map
+
+# Testing
+coverage/
+*.lcov
+.nyc_output/
+
+# Miscellaneous
+*.bak
+*.backup
+*.tmp
+*.temp
+
+# MacOS Specific
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows Specific
+desktop.ini
+Thumbs.db
